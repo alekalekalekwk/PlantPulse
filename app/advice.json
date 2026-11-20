@@ -1,0 +1,106 @@
+{
+  "_status": "DRAFT. Check every entry against an Indonesian agricultural extension source and note the source before release.",
+  "_disclaimer": "Hasil ini hanya indikasi awal, bukan diagnosis pasti. Konfirmasikan ke penyuluh pertanian sebelum menyemprot atau mencabut tanaman.",
+
+  "Tomato___Bacterial_spot": {
+    "name": "Bercak bakteri",
+    "description": "Bercak kecil gelap dan basah di daun, kadang dikelilingi warna kuning. Bercak bisa menyatu dan membuat daun rontok. Disebabkan bakteri Xanthomonas dan menyebar lewat percikan air.",
+    "steps": [
+      "Petik dan buang daun yang bercak, jangan dijadikan kompos.",
+      "Siram di pangkal batang, jangan membasahi daun.",
+      "Jangan menyentuh tanaman saat daun masih basah.",
+      "Tanya penyuluh soal bakterisida yang sesuai."
+    ],
+    "source": ""
+  },
+  "Tomato___Early_blight": {
+    "name": "Bercak kering (early blight)",
+    "description": "Bercak coklat dengan pola lingkaran seperti papan sasaran, biasanya mulai dari daun bawah yang tua. Disebabkan jamur Alternaria.",
+    "steps": [
+      "Buang daun bawah yang terinfeksi.",
+      "Beri mulsa agar tanah tidak memercik ke daun.",
+      "Jaga jarak tanam supaya sirkulasi udara baik.",
+      "Tanya penyuluh soal fungisida yang sesuai."
+    ],
+    "source": ""
+  },
+  "Tomato___Late_blight": {
+    "name": "Busuk daun (late blight)",
+    "description": "Bercak besar hijau gelap sampai coklat yang tampak basah, kadang ada lapisan putih di bawah daun saat lembap. Menyebar sangat cepat di cuaca dingin dan lembap.",
+    "steps": [
+      "Segera pisahkan atau cabut tanaman yang parah, karena penyakit ini cepat menular.",
+      "Jangan dijadikan kompos, buang jauh dari kebun.",
+      "Periksa tanaman tomat dan kentang di sekitarnya.",
+      "Hubungi penyuluh secepatnya."
+    ],
+    "source": ""
+  },
+  "Tomato___Leaf_Mold": {
+    "name": "Jamur daun (leaf mold)",
+    "description": "Bercak kuning pucat di permukaan atas daun, dengan lapisan beludru hijau zaitun sampai coklat di bagian bawah. Sering muncul di tempat lembap dan tertutup.",
+    "steps": [
+      "Kurangi kelembapan: perbaiki sirkulasi udara, pangkas daun yang terlalu rimbun.",
+      "Buang daun yang terinfeksi.",
+      "Siram di pagi hari agar daun cepat kering."
+    ],
+    "source": ""
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "name": "Bercak daun Septoria",
+    "description": "Banyak bercak kecil bulat dengan tepi gelap dan tengah abu-abu, biasanya mulai dari daun bawah.",
+    "steps": [
+      "Buang daun bawah yang bercak.",
+      "Beri mulsa dan hindari menyiram daun.",
+      "Bersihkan sisa tanaman setelah panen."
+    ],
+    "source": ""
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "name": "Indikasi tungau laba-laba",
+    "description": "Daun berbintik kuning halus, kadang ada jaring tipis di bawah daun. Ini gejala serangan hama, bukan penyakit.",
+    "steps": [
+      "Periksa bagian bawah daun dengan kaca pembesar.",
+      "Semprot bagian bawah daun dengan air bersih."
+    ],
+    "note": "Diagnosis hama di luar scope versi pertama. Kelas ini mungkin dibuang setelah eksplorasi data.",
+    "source": ""
+  },
+  "Tomato___Target_Spot": {
+    "name": "Bercak target",
+    "description": "Bercak coklat dengan lingkaran konsentris, mirip early blight tapi biasanya lebih kecil dan bisa muncul di daun mana pun.",
+    "steps": [
+      "Buang daun yang terinfeksi.",
+      "Jaga sirkulasi udara dan hindari daun basah terlalu lama.",
+      "Tanya penyuluh soal fungisida yang sesuai."
+    ],
+    "source": ""
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "name": "Virus keriting kuning",
+    "description": "Daun muda menguning, mengeriting ke atas dan mengecil, tanaman kerdil. Virus ini ditularkan kutu kebul (whitefly).",
+    "steps": [
+      "Cabut tanaman yang terinfeksi, virus tidak bisa disembuhkan.",
+      "Periksa kutu kebul di bawah daun tanaman lain.",
+      "Konsultasi ke penyuluh soal pengendalian kutu kebul dan varietas tahan virus."
+    ],
+    "source": ""
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "name": "Virus mosaik",
+    "description": "Pola belang hijau muda dan hijau tua di daun, daun bisa berkerut atau berubah bentuk. Menular lewat tangan, alat, dan sisa tanaman.",
+    "steps": [
+      "Cabut tanaman yang terinfeksi.",
+      "Cuci tangan dan alat setelah menyentuh tanaman sakit.",
+      "Jangan merokok di dekat tanaman, karena virus ini bisa terbawa dari tembakau."
+    ],
+    "source": ""
+  },
+  "Tomato___healthy": {
+    "name": "Daun sehat",
+    "description": "Tidak terlihat tanda penyakit di daun ini.",
+    "steps": [
+      "Tetap periksa daun lain secara rutin, terutama daun bagian bawah."
+    ],
+    "source": ""
+  }
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data: datasets are downloaded, never committed
+data/raw/
+data/processed/
+data/field/images/
+
+# Models: exported files are large
+models/*
+!models/.gitkeep
+
+# Training outputs
+checkpoints/
+runs/
+wandb/
+
+# Gradio
+.gradio/
+flagged/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

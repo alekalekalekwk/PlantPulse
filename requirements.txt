@@ -1,0 +1,6 @@
+# Local development: data prep, evaluation, and running the app.
+# Training itself runs on Google Colab, which installs its own framework.
+-r app/requirements.txt
+scikit-learn>=1.4
+matplotlib>=3.8
+pandas>=2.1
